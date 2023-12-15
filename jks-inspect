@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar build/libs/jks-inspect-1.0.0-all.jar "$@"
